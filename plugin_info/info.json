@@ -1,0 +1,19 @@
+{
+	"id" : "DaikinResidentialCtrl",
+	"name" : "Daikin Residential Controller",
+	"licence" : "AGPL",
+	"author" : "Jeedom SAS",
+	"require" : "3.3.39",
+	"category" : "wellness",
+	"hasDependency" : false,
+	"hasOwnDeamon" : true,
+	"maxDependancyInstallTime" : 0,
+	"changelog" : "https://jeedom.github.io/plugin-template/#language#/changelog",
+	"documentation" : "https://jeedom.github.io/plugin-template/#language#/",
+	"link" : {
+		"forum":"Lien vers le forum",
+		"video" : "Lien vers une video"
+	},
+	"language" : ["fr_FR","en_US","de_DE","sp_SP","ru_RU", "pt_PT"],
+	"compatibility" : ["miniplus","smart","rpi","docker","diy","mobile","v4"]
+}
